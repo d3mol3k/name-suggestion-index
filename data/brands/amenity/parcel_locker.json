@@ -745,12 +745,13 @@
       "locationSet": {"include": ["pl"]},
       "tags": {
         "amenity": "parcel_locker",
-        "brand": "Paczkomat InPost",
+        "brand": "InPost",
         "brand:wikidata": "Q110970254",
         "operator": "InPost",
         "operator:wikidata": "Q3182097",
         "parcel_mail_in": "yes",
         "parcel_pickup": "yes"
+        "loc_name: "Paczkomat InPost"
       }
     },
     {
